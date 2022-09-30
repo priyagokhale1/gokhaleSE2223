@@ -48,3 +48,6 @@ a#nbMenuItem{
     border: 4px solid rgb(209, 127, 5);
 }
 
+hr {
+    border: 2px solid black;
+}
