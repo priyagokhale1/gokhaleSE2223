@@ -66,3 +66,50 @@ h1 {
 #main-title {
     font-family: Georgia;
 }
+
+
+.icon-white {
+    color: black;
+}
+
+
+.about-author{
+    color: white;
+}
+
+.author{
+    background-color: #525559; 
+}
+
+div#about{
+    width: 400px;
+    margin: auto;
+}
+
+
+img#ovPadLeft{
+    padding-left: 20px;
+}
+
+.card-body {
+    background-color: #a9afb8;
+}
+
+/* ------- Media Queries --------- */
+@media only screen and (max-width: 992px) {
+    img {
+        max-height: 400px;
+    }
+
+}
+
+
+.card {
+    background-color: #525559;
+    border: none;
+
+}
+
+.card-body {
+    margin-bottom: 40px;
+}
