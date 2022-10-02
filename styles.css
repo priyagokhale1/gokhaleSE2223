@@ -120,9 +120,13 @@ img#ovPadLeft{
 
 .accordion-item, .accordian, .accordion-button {
     background-color: #a9afb8;
+    font-size: 20px;
 }
 
 .accordian {
     background-color: #a9afb8;
 }
 
+.accordion-body::selection {
+    background-color: black;
+}
