@@ -113,3 +113,16 @@ img#ovPadLeft{
 .card-body {
     margin-bottom: 40px;
 }
+
+.procedure {
+    background-color: #525559;
+}
+
+.accordion-item, .accordian, .accordion-button {
+    background-color: #a9afb8;
+}
+
+.accordian {
+    background-color: #a9afb8;
+}
+
