@@ -97,7 +97,7 @@ img#ovPadLeft{
 
 /* ------- Media Queries --------- */
 @media only screen and (max-width: 992px) {
-    img {
+    .adjust-height {
         max-height: 400px;
     }
 
@@ -127,6 +127,3 @@ img#ovPadLeft{
     background-color: #a9afb8;
 }
 
-.accordion-body::selection {
-    background-color: black;
-}
